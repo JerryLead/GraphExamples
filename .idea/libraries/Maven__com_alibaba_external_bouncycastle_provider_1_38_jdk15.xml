@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.external:bouncycastle.provider:1.38-jdk15">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/external/bouncycastle.provider/1.38-jdk15/bouncycastle.provider-1.38-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/external/bouncycastle.provider/1.38-jdk15/bouncycastle.provider-1.38-jdk15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/external/bouncycastle.provider/1.38-jdk15/bouncycastle.provider-1.38-jdk15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
